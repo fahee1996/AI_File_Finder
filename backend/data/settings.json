@@ -1,0 +1,32 @@
+{
+  "index_paths": [],
+  "excluded_extensions": [
+    ".exe",
+    ".dll",
+    ".so",
+    ".dylib",
+    ".sys",
+    ".tmp",
+    ".log",
+    ".cache",
+    ".bin",
+    ".dat",
+    ".iso"
+  ],
+  "excluded_folders": [
+    "node_modules",
+    "__pycache__",
+    ".git",
+    "venv",
+    "env",
+    ".venv",
+    "target",
+    ".idea",
+    ".vscode",
+    "dist",
+    "build"
+  ],
+  "max_file_size": 500,
+  "auto_index": true,
+  "llm_model": "llama3.1:8b"
+}
